@@ -14,7 +14,7 @@
 
 
 ## Live Demo
-> Live demo will be up soon
+> [Link to project](https://joel-100.github.io/capstone-1/)
 
 ## Getting Started
 
