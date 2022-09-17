@@ -222,6 +222,11 @@ div.card-program * {
   color: #fff;
 }
 
+div.overlay-content * {
+  color: #fff;
+  font-size: 1.5em;
+}
+
 div.card-program:hover {
   background-color: #fff;
 }
@@ -331,11 +336,6 @@ div.overlay-content {
   justify-content: center;
   align-items: center;
   color: #fff;
-}
-
-div.overlay-content * {
-  color: #fff;
-  font-size: 1.5em;
 }
 
 /* Media Query Section(Desktop Version) */
