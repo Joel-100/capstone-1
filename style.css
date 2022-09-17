@@ -194,7 +194,8 @@ h1.mobile {
 
 /* Card section Mobile */
 section#program {
-  background-color: #272a31;
+  background-image: url('./images/main-prog-bg.jpg');
+  background-size: 20em;
   padding-bottom: 5em;
 }
 
@@ -214,7 +215,7 @@ div.card-program {
   flex-direction: row;
   align-items: center;
   gap: 15px;
-  background-color: #272a31ae;
+  background-color: rgba(255, 255, 255, 0.192);
   transition: 1s;
 }
 
@@ -222,17 +223,12 @@ div.card-program * {
   color: #fff;
 }
 
-div.overlay-content * {
-  color: #fff;
-  font-size: 1.5em;
+h5.card-title {
+  color: #ec5242;
 }
 
 div.card-program:hover {
-  background-color: #fff;
-}
-
-div.card-program:hover * {
-  color: #272a31;
+  border: 1px solid #fff;
 }
 
 div.card-program img {
@@ -336,6 +332,11 @@ div.overlay-content {
   justify-content: center;
   align-items: center;
   color: #fff;
+}
+
+div.overlay-content * {
+  color: #fff;
+  font-size: 1.5em;
 }
 
 /* Media Query Section(Desktop Version) */
