@@ -16,6 +16,7 @@
 ## Live Demo
 > [Link to project](https://joel-100.github.io/capstone-1/)
 
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
