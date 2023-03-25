@@ -14,7 +14,7 @@
 
 
 ## Live Demo
-> [Link to project](https://joel-100.github.io/capstone-1/)
+> [Link to project](https://dancing-puffpuff-2b7120.netlify.app/)
 
 
 ## Getting Started
